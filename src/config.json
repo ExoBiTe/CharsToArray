@@ -1,0 +1,6 @@
+{
+	"DEBUG_MSG": true,
+	"INFILE" : "DBmitString.db",
+	"OUTFILE": "DBmitStringNeu.db",
+	"MAXSIZE": 0	//0 bedeutet kein Limit
+}
